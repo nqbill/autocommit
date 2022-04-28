@@ -4,7 +4,7 @@
 
 [![Auto commit](https://github.com/nqbill/autocommit/actions/workflows/autocommit.yml/badge.svg)](https://github.com/nqbill/autocommit/actions/workflows/autocommit.yml)
 
-![](screenshoot.png)
+![image](https://user-images.githubusercontent.com/98865315/165820547-e4fc8141-682a-42f6-b8b3-003fddb53bb6.png)
 
 ## Make it your own
 
